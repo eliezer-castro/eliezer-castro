@@ -4,7 +4,6 @@
 
 Sou apaixonado por garantir a qualidade e a excelência em aplicações web e mobile. Com foco especial em Flutter, estou sempre procurando formas de melhorar os processos e assegurar que os produtos finais superem as expectativas.
 
-
 ### 🛠️ Minhas Ferramentas e Tecnologias:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
@@ -19,6 +18,11 @@ Sou apaixonado por garantir a qualidade e a excelência em aplicações web e mo
 - **CI/CD:** GitHub Actions
 - **Banco de Dados:** PL/SQL, Firebase
 - **Monitoramento e Performance:** Crashlytics
+
+### 🎓 Formação Acadêmica:
+
+- **Análise e Desenvolvimento de Sistemas** - FACIT - Faculdade de Ciências do Tocantins, Jun 2020
+- **Pós-Graduação em Design de Produtos Digitais - UX/UI** - UNOPAR - Universidade Norte do Paraná, Dez 2022
 
 ### 📈 Estatísticas:
 
