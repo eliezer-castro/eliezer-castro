@@ -11,6 +11,9 @@ Sou apaixonado por garantir a qualidade e a excelência em aplicações web e mo
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 
 - **Linguagens e Frameworks:** Dart (Flutter)
 - **Testes:** Testes automatizados, Testes de integração, Testes unitários
