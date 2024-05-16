@@ -15,12 +15,12 @@ Sou apaixonado por garantir a qualidade e a excelência em aplicações web e mo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
 
-- **Linguagens e Frameworks:** Dart (Flutter)
+- **Linguagens e Frameworks:** JavaScript, Java, Dart (Flutter)
 - **Testes:** Testes automatizados, Testes de integração, Testes unitários
 - **Ferramentas de QA:** Selenium, Appium, JIRA, Postman
-- **CI/CD:** GitHub Actions
-- **Banco de Dados:** PL/SQL, Firebase
-- **Monitoramento e Performance:** Crashlytics
+- **CI/CD:** GitHub Actions, Jenkins
+- **Banco de Dados:** PL/SQL, Firebase, MongoDB, Postgresql
+- **Monitoramento e Performance:** Crashlytics, Sentry, Bugsnag
 
 ### 🎓 Formação Acadêmica:
 
