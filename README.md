@@ -29,7 +29,7 @@ Sou apaixonado por garantir a qualidade e a excelência em aplicações web e mo
 
 ### 📈 Estatísticas:
 
-[![Eliezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezercastro&show_icons=true&theme=tokyonight)](https://github.com/eliezercastro)
+[![Eliezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezer-castro&show_icons=true&theme=tokyonight)](https://github.com/eliezercastro)
 
 ### 📫 Como me alcançar:
 
