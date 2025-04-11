@@ -29,7 +29,7 @@ Sou apaixonado por garantir a qualidade e a excelência em aplicações web e mo
 
 ### 📈 Estatísticas:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezer-castro)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eliezer-castro)](https://git.io/streak-stats)
 
 ### 📫 Como me alcançar:
 
